@@ -1,0 +1,49 @@
+
+.container img {
+    width: 480px;
+    height: 355px;
+}
+    
+.carousel-item img {
+    width: auto;
+    height: 600px; 
+    max-height: none; 
+    object-fit: contain; 
+    background-color: black;
+}
+
+
+.hobby-img {
+    width: 415PX;        
+    height: 350px;       
+    object-fit: cover;
+}
+
+#hobby {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.social-icons a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px; 
+    height: 60px;
+    border-radius: 3rem; 
+    font-size: 24px; 
+    text-decoration: none;
+    margin: 8px; 
+}
+  
+.social-icons a:hover {
+    opacity: 0.8; 
+    transition: opacity 0.3s; 
+}
+
+.body1{
+     
+}
+  
