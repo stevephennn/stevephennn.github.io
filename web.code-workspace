@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"name": "web",
+		"path": "../../../../web"
+	},
+	{
+		"path": "../../../../pemograman"
+	},
+	{
+		"path": "../../stephen"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "uas"
+  }
+}
